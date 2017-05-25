@@ -1,0 +1,17 @@
+Cmp-Mod V01 Created by CvPcb (22-Jun-2014 BZR 4027)-stable date = Thu 25 May 2017 08:22:32 AM PDT
+
+BeginCmp
+TimeStamp = /5925018A;
+Reference = P1;
+ValeurCmp = CONN_17X2;
+IdModule  = 3M_951_Series;
+EndCmp
+
+BeginCmp
+TimeStamp = /59250199;
+Reference = P2;
+ValeurCmp = CONN_17X2;
+IdModule  = Harwin_M22-655R;
+EndCmp
+
+EndListe
