@@ -1,6 +1,8 @@
 pi-top Accessory Board Template
 ===============================
 
+This version built with KiCad release BZR 4027 on a Raspberry Pi.
+
 <img src="https://github.com/uChip/pi-top_Template/blob/master/Board.PNG" alt="Board outline template" height="390" width="451">
 
 This is a blank pi-top "accessory" board.  It is a template for creating custom accessory boards that fit within the pi-top laptop and pi-topCEED Raspberry Pi based computers.  It contains the board outline with the accessory buss connectors placed correctly to fit with the pi-top HUB board, pi-topSPEAKER or pi-topPROTO.
@@ -29,9 +31,6 @@ Hardware design files are in "KiCad EDA" .kicad_pcb and .sch formats created wit
 Documentation is generally done in Wordpad .rtf format.
 
 Viewable versions of layout, schematic and documentation are generally available in common formats such as .pdf, .png, .jpg, .txt, etc. 
-
-### Disclaimer
-While I wanted to contribute to the community, I have checked and this project does not load under KiCad 4.0.4.  I get an error message parsing the pcb file.  I guess I should not have installed the nightly builds, but I saw an YouTube that said back in February that version 5 would be out in a couple of months.  Since it has been a couple of months I thought to not invest a lot of energy in the old one.  Oops.  Hopefully the new version will be out soon.  If not I'll have to put time into back-porting the project to KiCad 4.  
 
 ## Distribution License  
 
